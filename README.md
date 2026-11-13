@@ -24,7 +24,6 @@ On this GitHub, I document my academic progress, share programming practice, and
 
 - **Python** — programação e projetos práticos
 - **SQL** — fundamentos de bancos de dados
-- **Git & GitHub** — versionamento e organização de projetos
 - **Artificial Intelligence** — estudos e experimentação
 - **Automation** — interesse em otimização de tarefas e processos
 
